@@ -89,3 +89,102 @@ The work done $W$ is positive when the system expands against an external pressu
 </iframe>
 :::
 ::::
+
+---
+
+:::: {.columns}
+::: {.column width='40%'}
+### Machine 1: Control Chart
+Statistical process control at 200 kPa and 338 K.
+
+- Method: Individuals (X-bar.one)
+- Blue: Observations
+- Red: Control Limits
+:::
+
+::: {.column width='60%'}
+<iframe data-src='media/plots/control_m1.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width='40%'}
+### Machine 1: Capability
+Process capability assessment.
+
+- Target: 50 mm
+- LSL/USL: 45 / 55 mm
+:::
+
+::: {.column width='60%'}
+<iframe data-src='media/plots/capability_m1.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width='40%'}
+### Machine 2: Control Chart
+Statistical process control at 200 kPa and 338 K.
+
+- Method: Individuals (X-bar.one)
+- Blue: Observations
+- Red: Control Limits
+:::
+
+::: {.column width='60%'}
+<iframe data-src='media/plots/control_m2.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width='40%'}
+### Machine 2: Capability
+Process capability assessment.
+
+- Target: 50 mm
+- LSL/USL: 45 / 55 mm
+:::
+
+::: {.column width='60%'}
+<iframe data-src='media/plots/capability_m2.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width='40%'}
+### Machine 3: Control Chart
+Statistical process control at 200 kPa and 338 K.
+
+- Method: Individuals (X-bar.one)
+- Blue: Observations
+- Red: Control Limits
+:::
+
+::: {.column width='60%'}
+<iframe data-src='media/plots/control_m3.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
+
+---
+
+:::: {.columns}
+::: {.column width='40%'}
+### Machine 3: Capability
+Process capability assessment.
+
+- Target: 50 mm
+- LSL/USL: 45 / 55 mm
+:::
+
+::: {.column width='60%'}
+<iframe data-src='media/plots/capability_m3.html' width='100%' height='500px' style='border:none;'></iframe>
+:::
+::::
